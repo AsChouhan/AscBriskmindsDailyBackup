@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AuthProvider xmlns="http://soap.sforce.com/2006/04/metadata">
+    <authorizeUrl>https://api.twitter.com/oauth/authenticate</authorizeUrl>
+    <consumerKey>oEpc1seYyGRTnMtUPHPOq42Dk</consumerKey>
+    <consumerSecret>Placeholder_Value</consumerSecret>
+    <friendlyName>test3</friendlyName>
+    <includeOrgIdInIdentifier>false</includeOrgIdInIdentifier>
+    <providerType>OpenIdConnect</providerType>
+    <requireMfa>false</requireMfa>
+    <sendAccessTokenInHeader>true</sendAccessTokenInHeader>
+    <sendClientCredentialsInHeader>false</sendClientCredentialsInHeader>
+    <sendSecretInApis>true</sendSecretInApis>
+    <tokenUrl>https://www.box.com/api/oauth2/token</tokenUrl>
+</AuthProvider>
